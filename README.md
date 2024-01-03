@@ -1,4 +1,4 @@
-### LMS By Pir Hilal Ahmad and Zameer Ahmad Meer
+### LMS By Pir Hilal Ahmad
 
 
 
